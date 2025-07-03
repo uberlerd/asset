@@ -5,8 +5,7 @@ layout: home
 
 <link rel="stylesheet" href="/assets/css/custom.css">
 
-
-> Terminal-first, minimal-dependency server manager for ARK: Survival Ascended. Automated mods, multi-server orchestration, local backup, and more—all from a fast, intuitive Terminal UI.
+> Streamlined ARK: Survival Ascended server management from the terminal. Automated mod handling, backups, and multi-server tools—no bloat, just results.
 
 <div align="center" style="margin: 2em 0;">
   <a class="button" href="ttps://github.com/uberlerd/">Documentation</a>
@@ -21,6 +20,8 @@ ASSET empowers ARK: Survival Ascended server administrators with a comprehensive
 ---
 
 # ASSET | ARK: Survival Server Environment Toolkit
+
+> Terminal-first, minimal-dependency server manager for ARK: Survival Ascended. Automated mods, multi-server orchestration, local backup, and more—all from a fast, intuitive Terminal UI.
 
 ## Key Features & Functions
 
