@@ -16,11 +16,11 @@ layout: home
 
 ## Why Use ASSET?
 
-**ASSET | ARK: Survival Server Environment Toolkit** empowers ARK: Survival Ascended server administrators with a comprehensive, modern solution for managing, automating, and optimizing their servers.
+ASSET empowers ARK: Survival Ascended server administrators with a comprehensive, modern solution for managing, automating, and optimizing their servers.
 
 ---
 
-# ASSET: ARK Server Suite Enhanced Toolkit
+# ASSET | ARK: Survival Server Environment Toolkit
 
 ## Key Features & Functions
 
