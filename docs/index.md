@@ -3,11 +3,6 @@ layout: home
 title: Home
 ---
 
----
-title: "ASSET | ARK: Survival Server Environment Toolkit"
-description: "A comprehensive toolkit for managing ARK: Survival Ascended servers."
----
-
 
 <link rel="stylesheet" href="/assets/css/custom.css">
 
