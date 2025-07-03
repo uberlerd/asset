@@ -79,5 +79,5 @@ Get started with ASSET today!
 ## Get Started
 
 - [Read the documentation](/docs)
-- [Download the latest release](https://github.com/yourorg/asset/releases)
-- [View on GitHub](https://github.com/yourorg/asset)
+- [Download the latest release](https://github.com/uberlerd/asset/releases)
+- [View on GitHub](https://github.com/uberlerd/asset)
