@@ -1,6 +1,6 @@
 # ASSET | ARK: Survival Server Environment Toolkit
 
-**Terminal-first, minimal-dependency server management for ARK: Survival Ascended.**
+**Streamlined ARK: Survival Ascended server management from the terminal. Automated mod handling, backups, and multi-server tools—no bloat, just results.**
 
 ---
 
@@ -11,6 +11,8 @@ Unlike other tools, ASSET delivers a powerful, modern Terminal UI (TUI) experien
 If you want to deploy, manage, and automate ARK: Survival Ascended servers—locally or remotely—using as few dependencies as possible, ASSET is your definitive choice.
 
 ---
+
+**Terminal-first, minimal-dependency server manager for ARK: Survival Ascended. Automated mods, multi-server orchestration, local backup, and more—all from a fast, intuitive Terminal UI.**
 
 ## Key Features & Functions
 
