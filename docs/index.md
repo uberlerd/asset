@@ -9,7 +9,7 @@ layout: home
 > Terminal-first, minimal-dependency server manager for ARK: Survival Ascended. Automated mods, multi-server orchestration, local backup, and more—all from a fast, intuitive Terminal UI.
 
 <div align="center" style="margin: 2em 0;">
-  <a class="button" href="/docs">Documentation</a>
+  <a class="button" href="ttps://github.com/uberlerd/">Documentation</a>
   <a class="button" href="https://github.com/uberlerd/asset/releases">Download</a>
   <a class="button" href="https://github.com/uberlerd/asset">GitHub</a>
 </div>
@@ -88,6 +88,6 @@ Get started with ASSET today!
 
 ## Get Started
 
-- [Read the documentation](/docs)
+- [Read the documentation](ttps://github.com/uberlerd/)
 - [Download the latest release](https://github.com/uberlerd/asset/releases)
 - [View on GitHub](https://github.com/uberlerd/asset)
