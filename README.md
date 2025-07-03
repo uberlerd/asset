@@ -120,4 +120,3 @@ This project currently is not licensed.
 
 ---
 
-*ASSET is the definitive choice for ARK: Survival Ascended administrators who value speed, automation, 
