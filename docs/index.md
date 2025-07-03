@@ -6,7 +6,7 @@ title: Home
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 
-> The all-in-one toolkit for ARK: Survival Ascended server administrators.
+> Terminal-first, minimal-dependency server manager for ARK: Survival Ascended. Automated mods, multi-server orchestration, local backup, and more—all from a fast, intuitive Terminal UI.
 
 <div align="center" style="margin: 2em 0;">
   <a class="button" href="/docs">Documentation</a>
