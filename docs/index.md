@@ -20,56 +20,65 @@ title: Home
 
 ---
 
-## Key Features
+# ASSET: ARK Server Suite Enhanced Toolkit
 
-- **Multi-Server & Cluster Management**  
-  Effortlessly manage multiple servers—including clusters—from a single, intuitive interface.
+## Key Features & Functions
 
-- **Automated Backups & Smart Scheduling**  
-  Protect your data with automated, customizable backups and advanced scheduling tools.
+- **Single-command installation:**  
+  Install instantly with one line—no manual dependency chasing or complicated setup.
+- **Minimal dependencies:**  
+  No Docker, no web server, no heavy frameworks. Runs on any modern Linux system with Proton.
+- **Terminal-first (TUI):**  
+  Fast, keyboard-driven interface for local or SSH management. No GUI, no web UI, no distractions.
+- **Consistent, modular menus:**  
+  Vertical layouts and modular design make navigation and future enhancements simple.
+- **Multi-instance support:**  
+  Run and manage multiple ARK: Survival Ascended servers on a single machine.
+- **Cluster management:**  
+  Easily configure and orchestrate server clusters, including shared and isolated resources.
+- **Profile-based configuration:**  
+  Use templates and profiles for quick server setup, cloning, and switching.
+- **Automated mod_manager:**  
+  Install, update, enable, disable, and remove mods directly from the TUI.
+- **Per-instance mod sets:**  
+  Assign different mod configurations to each server or cluster.
+- **Mod validation:**  
+  Check compatibility and integrity before launching.
+- **Scheduled and on-demand backups:**  
+  Protect your worlds with regular or manual backups.
+- **Simple restore process:**  
+  Restore any backup version directly from the TUI.
+- **Local backup routines:**  
+  No cloud dependencies—your data stays on your server.
+- **Integrated RCON client:**  
+  Send real-time commands, manage players, and automate server tasks.
+- **Command scheduling:**  
+  Automate RCON commands and server actions with built-in scheduling.
+- **Planned: Lightweight resource monitoring:**  
+  View CPU, memory, and disk usage from the terminal (coming soon).
+- **Planned: Crash detection & auto-restart:**  
+  Automatic recovery from server crashes or hangs (coming soon).
+- **INI templating and validation:**  
+  Edit, validate, and manage server configs with error-checking and suggestions.
+- **Custom command-line arguments:**  
+  Fine-tune server startup with advanced options.
 
-- **Integrated Mod Management**  
-  Add, remove, enable, disable, or set mods to passive with a built-in Mod Manager. Supports CurseForge integration.
+## Why ASSET Over Competing Solutions?
 
-- **Powerful RCON Automation**  
-  Automate server commands, schedule tasks, and interact with in-game chat in real time.
-
-- **Cross-Server Chat & Player Management**  
-  Enable seamless communication across your cluster, manage players, and monitor activity from a single dashboard.
-
-- **Performance Optimization**  
-  Set CPU priority and affinity, monitor resource usage, and access maintenance tools for peak server performance.
-
-- **Automatic Server Updates**  
-  Automatically check for and apply ARK: Survival Ascended updates, with customizable pre-update notifications.
-
-- **User-Friendly Web & CLI Interfaces**  
-  Access all features through a modern web dashboard or command-line interface.
-
-- **Security & Access Control**  
-  Manage admin permissions, restrict sensitive actions, and keep your server environment secure.
-
-- **Easy Setup & Maintenance**  
-  Automatic port configuration, simple server restarts, and guided setup for all user levels.
-
----
-
-## Reasons to Choose ASSET
-
-- **Designed for ARK: Survival Ascended**  
-  Built to support the latest features, modding capabilities, and technical requirements.
-
-- **Save Time**  
-  Automate repetitive tasks, streamline updates, and manage everything from one place.
-
-- **Reduce Downtime**  
-  Scheduled backups, auto-updates, and proactive monitoring keep your servers online.
-
-- **Grow Your Community**  
-  Cluster, mod, and communication tools help you scale from small groups to large networks.
-
-- **Stay in Control**  
-  Real-time monitoring, file access, and robust admin tools keep you in command.
+- **No Docker or web server required:**  
+  Competing tools often require Docker, web UIs, or heavy frameworks. ASSET is lightweight and runs natively on Linux.
+- **Terminal-first, not GUI-dependent:**  
+  Manage everything over SSH or locally—ideal for sysadmins, power users, and remote environments.
+- **Automated, integrated mod management:**  
+  No more manual mod installs or updates—ASSET’s mod_manager handles it all from the terminal.
+- **Multi-server and cluster orchestration:**  
+  Effortlessly manage complex deployments without extra tools or scripts.
+- **Minimal attack surface:**  
+  Fewer dependencies and no exposed web interfaces mean better security and stability.
+- **Fast, scriptable, and reliable:**  
+  Designed for automation, scripting, and integration into your own workflows.
+- **Clear, consistent documentation:**  
+  Easy onboarding for new users and contributors.
 
 ---
 
