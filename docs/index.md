@@ -4,6 +4,8 @@ title: Home
 ---
 
 <link rel="stylesheet" href="/assets/css/custom.css">
+<link rel="stylesheet" href="https://unpkg.com/terminal.css@0.7.4/dist/terminal.min.css" />
+
 
 > The all-in-one toolkit for ARK: Survival Ascended server administrators.
 
