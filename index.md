@@ -1,9 +1,7 @@
 ---
 layout: home
-title: ASSET | ARK: Survival Server Environment Toolkit
+title: Home
 ---
-
-# ASSET | ARK: Survival Server Environment Toolkit
 
 > The all-in-one toolkit for ARK: Survival Ascended server administrators.
 
