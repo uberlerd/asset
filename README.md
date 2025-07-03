@@ -80,8 +80,6 @@ Install ASSET with a single command:
 
 curl -fsSL https://get.runasset.app | bash
 
-text
-
 *No manual dependency chasing. No complicated setup. Just run and go.*
 
 ---
@@ -93,8 +91,17 @@ text
 
 asset
 
-text
 3. **Follow the TUI prompts** to create, configure, and manage your ARK: Survival Ascended servers.
+
+---
+
+## Support
+
+If you find ASSET useful, please consider supporting the project:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Ko--fi-29abe0?logo=ko-fi&logoColor=white)](https://ko-fi.com/uberlerd)
+
+Or visit [ko-fi.com/uberlerd](https://ko-fi.com/uberlerd)
 
 ---
 
