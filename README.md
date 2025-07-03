@@ -1,4 +1,4 @@
-# ASSET: ARK Survival Server Environment Tool
+# ASSET | ARK: Survival Server Environment Toolkit
 
 **Terminal-first, minimal-dependency server management for ARK: Survival Ascended.**
 
