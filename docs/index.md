@@ -3,6 +3,12 @@ layout: home
 title: Home
 ---
 
+---
+title: "ASSET | ARK: Survival Server Environment Toolkit"
+description: "A comprehensive toolkit for managing ARK: Survival Ascended servers."
+---
+
+
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 
@@ -10,8 +16,8 @@ title: Home
 
 <div align="center" style="margin: 2em 0;">
   <a class="button" href="/docs">Documentation</a>
-  <a class="button" href="https://github.com/yourorg/asset/releases">Download</a>
-  <a class="button" href="https://github.com/yourorg/asset">GitHub</a>
+  <a class="button" href="https://github.com/uberlerd/asset/releases">Download</a>
+  <a class="button" href="https://github.com/uberlerd/asset">GitHub</a>
 </div>
 
 ## Why Use ASSET?
