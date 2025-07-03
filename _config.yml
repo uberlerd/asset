@@ -4,6 +4,7 @@ theme: minima
 logo: /assets/asset-logo.svg
 show_downloads: true
 
+
 nav:
   - title: "Home"
     url: /
