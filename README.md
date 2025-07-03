@@ -100,7 +100,7 @@ text
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project currently is not licensed.
 
 ---
 
