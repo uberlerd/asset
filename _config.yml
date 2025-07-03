@@ -1,10 +1,9 @@
 title: "ASSET | ARK: Survival Server Environment Toolkit"
-description: "The all-in-one toolkit for ARK: Survival Evolved server management."
+description: "The all-in-one toolkit for ARK: Survival Ascended server management."
 theme: minima
 logo: /assets/asset-logo.svg
 show_downloads: true
 
-# Navigation links
 nav:
   - title: "Home"
     url: /
@@ -15,11 +14,9 @@ nav:
   - title: "GitHub"
     url: https://github.com/yourorg/asset
 
-# Custom CSS
 sass:
   style: compressed
 
-# Exclude node_modules and other non-site files
 exclude:
   - node_modules
   - vendor
